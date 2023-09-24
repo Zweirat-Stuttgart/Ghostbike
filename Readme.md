@@ -3,7 +3,9 @@
 In this repository we want to create a black/white image of our city, Stuttgart.  
 On this map all Ghostbikes should be visible.
 
-## Overpass
+## Preparation
+
+### Overpass Creation
 
 With the [Overpass Turbo](https://overpass-turbo.eu/) website just execute this search to get your city and all the districts:
 
@@ -29,7 +31,7 @@ With the [Overpass Turbo](https://overpass-turbo.eu/) website just execute this 
 {{geocodeArea:"Stuttgart-Möhringen"}};
 {{geocodeArea:"Stuttgart-Mühlhausen"}};
 {{geocodeArea:"Stuttgart-Münster"}};
-{{geocodeArea:"Stuttgart-Obertürkheim"}};
+{{geocodeArea:"Stuttgart-S-Obertürkheim"}};
 {{geocodeArea:"Stuttgart-Plieningen"}};
 {{geocodeArea:"Stuttgart-Sillenbuch"}};
 {{geocodeArea:"Stuttgart-Stammheim"}};
@@ -52,3 +54,7 @@ out geom;
   node{opacity:0;fill-opacity:0}
 }}
 ```
+
+### Overpass Export
+
+If you're satisfied with your query, just use the Export button in the top left of the Overpass Turbo website and save it as geojson. 
