@@ -22,7 +22,7 @@ With the [Overpass Turbo](https://overpass-turbo.eu/) website just execute this 
 {{geocodeArea:"Stuttgart-Süd"}};
 {{geocodeArea:"Stuttgart-Ost"}};
 {{geocodeArea:"Stuttgart-Nord"}};
-{{geocodeArea:"Stuttgart-Bad Cannstatt"}};
+{{geocodeArea:"Bad Cannstatt"}};
 {{geocodeArea:"Stuttgart-Birkach"}};
 {{geocodeArea:"Stuttgart-Botnang"}};
 {{geocodeArea:"Stuttgart-Degerloch"}};
