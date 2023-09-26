@@ -65,9 +65,9 @@ You can upload this geojson now to the [GPS Visualizer](https://www.gpsvisualize
 
 ### Manual work
 
-Depending on how perfect you like to have it, you can now open this svg file in any vector editing program, like [InkScape}(https://inkscape.org/). I removed all "double" lines and changed:   
+Depending on how perfect you like to have it, you can now open this svg file in any vector editing program, like [InkScape](https://inkscape.org/). I removed all "double" lines and changed:   
 For all districts a greyish, dashed line: `stroke:#cccccc;stroke-width:1;stroke-dasharray:2, 10`  
-For the outer border a thiker, white line: `stroke:#ffffff;stroke-width:3`
+For the outer border a slightly thicker, white line: `stroke:#ffffff;stroke-width:3`
 
 ### Add to index
 
