@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    font-family:sans-serif;
+    color:whitesmoke;
+  }
+
+a {
+    color: #aaaaaa;
+  }
+h1
+{
+    text-align:center;
+    color:whitesmoke;
+}
+h2
+{
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+}
